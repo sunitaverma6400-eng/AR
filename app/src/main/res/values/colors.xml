@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ar_primary">#4B3F72</color>
+    <color name="ar_primary_dark">#2E2650</color>
+    <color name="ar_accent">#F2A65A</color>
+    <color name="ar_bg">#0F0E17</color>
+    <color name="ar_surface">#1A1826</color>
+    <color name="ar_bubble_out">#4B3F72</color>
+    <color name="ar_bubble_in">#242236</color>
+    <color name="ar_text_primary">#F5F5F7</color>
+    <color name="ar_text_secondary">#A9A6B8</color>
+    <color name="ar_online">#5FD4A0</color>
+</resources>
